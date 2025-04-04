@@ -164,8 +164,9 @@ div.video > iframe {
 footer {
     background-color: var(--cor5);
     color: white;
-    padding: 10px;
     text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 footer a {
     color: white;
